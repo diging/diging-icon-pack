@@ -10,3 +10,4 @@ Icon's made especially for DigInG :)
    
    ```<span class=“icon-write”></span>```
 
+![alt text](https://github.com/diging/diging-icon-pack/blob/main/DigInG%20Icon%20Pack/SVG%20Iocn%20pack_All%20Icons.png)
