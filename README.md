@@ -1,4 +1,7 @@
-# diging-icon-pack
+# DigInG Icon Pack
+
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/diging/diging-icon-pack?color=orange)
+
 Icon's made especially for DigInG :)
 
 <h3>Steps to set up custom DigInG icon pack</h3>
