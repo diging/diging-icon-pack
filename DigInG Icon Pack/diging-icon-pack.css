@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/diging-icon-pack.eot?h9xjvv');
-  src:  url('fonts/diging-icon-pack.eot?h9xjvv#iefix') format('embedded-opentype'),
-    url('fonts/diging-icon-pack.ttf?h9xjvv') format('truetype'),
-    url('fonts/diging-icon-pack.woff?h9xjvv') format('woff'),
-    url('fonts/diging-icon-pack.svg?h9xjvv#icomoon') format('svg');
+  src:  url('fonts/diging-icon-pack.eot?zck2kh');
+  src:  url('fonts/diging-icon-pack.eot?zck2kh#iefix') format('embedded-opentype'),
+    url('fonts/diging-icon-pack.ttf?zck2kh') format('truetype'),
+    url('fonts/diging-icon-pack.woff?zck2kh') format('woff'),
+    url('fonts/diging-icon-pack.svg?zck2kh#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,33 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-play-circle:before {
+  content: "\e9ab";
+}
+.icon-2x2-grid:before {
+  content: "\e9ac";
+}
+.icon-layers:before {
+  content: "\e9ad";
+}
+.icon-forward-end:before {
+  content: "\e9ae";
+}
+.icon-rewind-end:before {
+  content: "\e9af";
+}
+.icon-double-chevron-down:before {
+  content: "\e9b0";
+}
+.icon-double-chevron-up:before {
+  content: "\e9b1";
+}
+.icon-double-chevron-right:before {
+  content: "\e9b2";
+}
+.icon-double-chevron-left:before {
+  content: "\e9b3";
+}
 .icon-move-to:before {
   content: "\e9a9";
 }
