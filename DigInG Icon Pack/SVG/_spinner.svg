@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 48 48" style="enable-background:new 0 0 48 48;" xml:space="preserve">
+	 viewBox="0 0 48 48" style="enable-background:new 0 0 48 48; animation: rotation 2s linear infinite;" xml:space="preserve">
 <style type="text/css">
+	@keyframes rotation {
+		from {
+			transform: rotate(359deg);
+		}
+		to {
+			transform: rotate(0deg);
+		}
+	}
 	.st0{display:none;}
 	.st1{display:inline;opacity:0.2;fill:none;stroke:#7C7C7C;stroke-miterlimit:10;}
 	.st2{display:inline;opacity:0.15;}
