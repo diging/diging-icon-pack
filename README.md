@@ -3,7 +3,7 @@
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/diging/diging-icon-pack?color=orange)
 ![License](https://img.shields.io/static/v1?label=license&message=CC-BY-4.0&color=blue)
 
-Icon's made especially for DigInG :)
+Icon's made specifically for DigInG :)
 
 <h3>Steps to set up custom DigInG icon pack</h3>
 
